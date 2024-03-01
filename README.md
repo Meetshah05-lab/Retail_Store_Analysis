@@ -1,3 +1,6 @@
+![image](https://github.com/Meetshah05-lab/Retail_Store_Analysis/assets/154343141/468e2b8a-8793-419e-88f7-4a45477f5838)
+
+
 # Overview:
 Welcome to our Retail Store Dashboard repository! Our interactive dashboard, created in Microsoft Excel, is designed to provide valuable insights into retail operations, enabling stakeholders to make data-driven decisions that can significantly improve sales performance.
 
